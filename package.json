@@ -1,0 +1,12 @@
+{
+  "name": "best-scss-starter-file",
+  "version": "1.0.0",
+  "description": "- In the Abstract partial, there is a file with all the variables, mixins, animation and similar components.",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass assets/scss/main.scss assets/css/main.css -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

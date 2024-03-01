@@ -1,0 +1,23 @@
+// Importing Sass Others Files
+
+// ========= Abstracts
+@import "abstracts/animation";
+@import "abstracts/mixins";
+@import "abstracts/variables";
+
+// ======== Vendors
+@import "vendors/vendors";
+
+// ======== Base
+@import "base/reset";
+@import "base/typography";
+
+// ========  Components
+@import "components/buttons";
+
+// ======= shared
+@import "shared/header";
+@import "shared/footer";
+
+// ========== Pages
+@import "pages/homepage";
